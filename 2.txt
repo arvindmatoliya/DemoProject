@@ -1,1 +1,4 @@
 Intial content for 2.txt
+
+----
+commited from first directory
