@@ -7,5 +7,10 @@ commited from second directory
 ----
 commited from first directory
 
+<<<<<<< Updated upstream
 ---------------------------------------------
 again changes from fist directory
+=======
+------------
+re changes from second directory
+>>>>>>> Stashed changes
