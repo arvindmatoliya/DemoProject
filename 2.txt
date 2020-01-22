@@ -7,3 +7,5 @@ commited from second directory
 ----
 commited from first directory
 
+---------------------------------------------
+again changes from fist directory
